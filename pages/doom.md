@@ -5,7 +5,7 @@ description: Details about playing DooM, every Sunday!
 permalink: /doom/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">
+<img src="https://res.cloudinary.com/dtxgfstrs/image/upload/c_scale,h_428,w_760/c_crop,h_400,w_760/v1593912306/doom_invulnerability_sphere_by_kracov_d2nu1w1-pre_c85aqd.jpg" alt="DooM">
 
 # DooM
 
